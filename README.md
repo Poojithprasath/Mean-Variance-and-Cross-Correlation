@@ -112,14 +112,14 @@ plot2d3(1:length(r), r);
 
 ### Tabulation:
 
-<img width="937" height="1463" alt="image" src="https://github.com/user-attachments/assets/cb0a5044-422c-41d0-9416-07c2a33a216a" />
+<img width="1241" height="1600" alt="image" src="https://github.com/user-attachments/assets/51ffa2ab-b11a-4ed5-9bc1-f1a852d3af87" />
 
 
 ---
 
 ### Calculation:
 
-<img width="1241" height="1600" alt="image" src="https://github.com/user-attachments/assets/51ffa2ab-b11a-4ed5-9bc1-f1a852d3af87" />
+<img width="937" height="1463" alt="image" src="https://github.com/user-attachments/assets/cb0a5044-422c-41d0-9416-07c2a33a216a" />
 
 
 <img width="1328" height="1600" alt="image" src="https://github.com/user-attachments/assets/e4ab3bce-a1ea-41c0-9052-7ceaf5be0250" />
